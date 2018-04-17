@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "../envwrapper/bin/python",
+    "files.exclude": {
+        "**/**.pyc": true,
+    }
+}
