@@ -1,5 +1,8 @@
 {
     "python.pythonPath": "../envwrapper/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
     "files.exclude": {
         "**/**.pyc": true,
     }
